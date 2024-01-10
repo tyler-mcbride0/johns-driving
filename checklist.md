@@ -19,7 +19,9 @@ This is a checklist to keep track of John's driving skills as he progresses into
 - [ ] Braking
 - [ ] Accelerating
 - [ ] Reversing
-
+- [ ] Steering the Vehicle
+- [ ] Turning Corners
+- [ ] 
 
 ### Basic Driving Challenges
 
