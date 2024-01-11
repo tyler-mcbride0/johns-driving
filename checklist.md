@@ -24,7 +24,7 @@ This is a checklist to keep track of John's driving skills as he progresses into
 - [ ] 
 
 ### Basic Driving Challenges
-
+- Navigate open space parking lot.
 
 
 ### Intermediate Car Operation Skills
