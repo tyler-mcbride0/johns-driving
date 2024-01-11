@@ -15,7 +15,7 @@ This is a checklist to keep track of John's driving skills as he progresses into
 ### Basic Driving Skills
 - [ ] Starting the Vehicle
 - [ ] Releasing the handbrake
-- [ ] Changing gears/Putting into Gear
+- [ ] Changing gears/Putting into drive
 - [ ] Braking
 - [ ] Accelerating
 - [ ] Reversing
@@ -27,11 +27,34 @@ This is a checklist to keep track of John's driving skills as he progresses into
 
 
 
+### Intermediate Car Operation Skills
+
+
+### Intermediate Driving Skills
+- [ ] Using a roundabout
+- [ ] Performing a U-turn
+- [ ] Performing a 3 point turn
+- [ ] Driving through an intersection
+- [ ] Turning at an intersection
+- [ ] Traffic Light controlled intersections
+- [ ] Driving over a speed bump
+- [ ] Entering a driveway
+- [ ] Changing lanes
+- [ ] Performing a hill start
+
+### Intermediate Driving Challenges
+
+
+
 ### Advanced Car Operation Skills
 
 
 
 ### Advanced Driving Skills
+- [ ] Overtaking
+- [ ] Parallel parking
+- [ ] Reversing into a driveway
+- [ ] Driving through construciton areas
 
 
 
